@@ -6,5 +6,3 @@ Analyzed call centre data, identified days and periods of high call volume and m
 ## Key Insights
 
 ## Recommendation
-
-## Data Modeling
